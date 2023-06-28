@@ -11,7 +11,7 @@ In this project, I developed a login system designed to ensure secure authentica
 
 The application design is fully responsive, meaning it adapts to any mobile device size. Additionally, I incorporated LottieFiles animations to enhance the visual experience of the application.
 
-I continue to work on optimizing the project, constantly seeking ways to improve its performance and functionality.  
+I continue to work on optimizing the project, constantly seeking ways to improve its performance and functionality.  💥
 <br/>
  </p>
  <p align="center">
