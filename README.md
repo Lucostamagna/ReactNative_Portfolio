@@ -16,7 +16,7 @@ I continue to work on optimizing the project, constantly seeking ways to improve
  </p>
  <p align="center">
  
-  
+   <img width="800" alt="iPhone13Mockup1" src="https://github.com/Lucostamagna/LoginUx/blob/master/assets/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).png" />
 </p>
 
 <h3>Technologies</h3>
