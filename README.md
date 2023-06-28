@@ -27,3 +27,10 @@ I continue to work on optimizing the project, constantly seeking ways to improve
 - Async Storage 🔑
 - Clean Architecture 🔨
 - Optimized for iOS and Android 📱
+
+<br/>
+<h2 align="left"> Movie App </h2>
+<p>
+  I had a great time creating this application, and I also gained extensive knowledge about movies! Here, you can explore the latest cinema releases in real-time, as the information is sourced from an up-to-date API. Additionally, you can stay informed about the top-rated, most acclaimed, and popular movies. I have also included a detailed movie session where you can find all the relevant information you need. Feel free to check it out!
+</p>
+
