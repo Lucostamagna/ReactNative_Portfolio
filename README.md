@@ -16,7 +16,7 @@ I continue to work on optimizing the project, constantly seeking ways to improve
  </p>
  <p align="center">
  
-   <img width="800" alt="iPhone13Mockup1" src="https://github.com/Lucostamagna/LoginUx/blob/master/assets/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).png" />
+   <img width="800" alt="pick" src="https://github.com/Lucostamagna/LoginUx/blob/master/assets/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).png" />
 </p>
 
 <h3>Technologies</h3>
@@ -31,6 +31,18 @@ I continue to work on optimizing the project, constantly seeking ways to improve
 <br/>
 <h2 align="left"> Movie App </h2>
 <p>
+  🎬
   I had a great time creating this application, and I also gained extensive knowledge about movies! Here, you can explore the latest cinema releases in real-time, as the information is sourced from an up-to-date API. Additionally, you can stay informed about the top-rated, most acclaimed, and popular movies. I have also included a detailed movie session where you can find all the relevant information you need. Feel free to check it out!
 </p>
+ <p align="center">
+ 
+   <img width="800" alt="pick1" src="https://github.com/Lucostamagna/LoginUx/blob/master/assets/appmovies.png" />
+</p>
+
+<h3>Technologies</h3>
+
+- React Native 💻
+- Context 🔌
+- Clean Architecture 🔨
+- Optimized for iOS and Android 📱
 
