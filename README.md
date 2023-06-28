@@ -5,7 +5,7 @@
 <p>   Hello! 👋🏾 Thank you for visiting my GitHub repository! Here, you will find my latest React Native projects. I am committed to continuously improving my development skills, with a strong focus on design. As a Mobile Developer, I am currently seeking remote or relocation opportunities. If you believe I could be a valuable addition to your team, please don't hesitate to get in touch! I would be delighted to connect with you.</p>
   
  <h2 align="left"> Login - Logout </h2>
- <br/>
+
  <p> 
 In this project, I developed a login system designed to ensure secure authentication of users and maintain their active sessions, even after logging out. This system provides each user with a unique token that is automatically generated and securely stored in AsyncStorage. If you are not a user, you can register and log in to use the application. Users are stored in a MongoDB-backed database, and the application runs online.
 
@@ -28,7 +28,6 @@ I continue to work on optimizing the project, constantly seeking ways to improve
 - Clean Architecture 🔨
 - Optimized for iOS and Android 📱
 
-<br/>
 <h2 align="left"> Movie App </h2>
 <p>
   🎬
@@ -44,5 +43,31 @@ I continue to work on optimizing the project, constantly seeking ways to improve
 - React Native 💻
 - Context 🔌
 - Clean Architecture 🔨
+- Optimized for iOS and Android 📱
+
+<h2 align="left">Finance App</h2>
+ 
+ 🔔
+<p>
+This project was very significant to me as it was part of my experience during an internship organized by the leading developers at Mercury LLC. The application focuses on the finance domain and was developed using the Ignite development template.
+The application features a series of cards that compose a carousel and display detailed information as required. Each time a scroll is made, an expense related to that card is shown with a custom style.
+One of the main challenges of this project was implementing a smooth and fluid carousel with seamless transitions. Additionally, custom components were developed to display the expenses associated with each card, utilizing unique styles that seamlessly integrate with the overall design of the application.
+Furthermore, a functionality was implemented to visualize all expenses made across all cards, providing users with an overview of their finances.
+
+This project allowed me to acquire fundamental skills in mobile application development and enhance my knowledge of React Native. Additionally, I learned to work as part of a team, collaborating with other developers and following industry best practices.
+  💰
+</p>
+<p align="center">
+ 
+   <img width="800" alt="pick1" src="https://github.com/Lucostamagna/Country_design/blob/master/assets/financeApp.png" />
+</p>
+
+<h3>Technologies</h3>
+
+- React Native 💻
+- Ignite 🔌
+ -Dark & Light Mode 👏
+- Clean Architecture 🔨
+- Navigation 🗺️
 - Optimized for iOS and Android 📱
 
