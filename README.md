@@ -29,7 +29,7 @@ I continue to work on optimizing the project, constantly seeking ways to improve
 
 - React Native 💻
 - Context 🔌
-- Mondo Db 🍀
+- Mongo Db 🍀
 - Async Storage 🔑
 - Clean Architecture 🔨
 - Optimized for iOS and Android 📱
