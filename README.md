@@ -1,5 +1,5 @@
 
-<h2>  React Native_Portfolio 📲 </h2>   
+<h2>  React Native Portfolio 📲 </h2>   
 🍀
 <br/>
   <p align="center">
@@ -9,6 +9,9 @@
 
 
 <p>   Hello! 👋🏾 Thank you for visiting my GitHub repository! Here, you will find my latest React Native projects. I am committed to continuously improving my development skills, with a strong focus on design. As a Mobile Developer, I am currently seeking remote or relocation opportunities. If you believe I could be a valuable addition to your team, please don't hesitate to get in touch! I would be delighted to connect with you.</p>
+
+
+<h2> Projects 📲 </h2>
  
  <h2 align="left"> Login - Logout </h2>
 
@@ -72,7 +75,7 @@ This project allowed me to acquire fundamental skills in mobile application deve
 
 - React Native 💻
 - Ignite 🔌
- -Dark & Light Mode 👏
+- Dark & Light Mode 👏
 - Clean Architecture 🔨
 - Navigation 🗺️
 - Optimized for iOS and Android 📱
