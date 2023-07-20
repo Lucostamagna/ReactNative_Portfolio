@@ -80,3 +80,26 @@ This project allowed me to acquire fundamental skills in mobile application deve
 - Navigation 🗺️
 - Optimized for iOS and Android 📱
 
+<h2 align="left"> Country Design 🌍 </h2>
+<br/>
+  <p align="center">
+ 
+   <img width="800" alt="pick" src="https://github.com/Lucostamagna/LoginUx/blob/master/assets/country.png" />
+</p>
+<p> On this occasion, I developed a simple screen using React Native and integrated several functionalities to enhance practices. 💻
+I focused on incorporating the following features:
+🎠 Image Carousel with pagination.
+📜 Flatlist.
+⚡️ Alert Component.
+🎨 Icons and Typography Changes: To add a visual and stylish touch to my screen.
+⚡️ LottieFiles Animations.
+🌗 Dark and Light Mode: I implemented a system to switch between dark and light modes using React Native hooks such as useContext and useReducer. This allows users to personalize their experience based on their viewing preferences.
+🗺 Map Integration: I also worked on integrating a map that displays the general location. Although I am still working on its functionalities, I am excited about its potential to enhance the interactivity of the screen.
+</p>
+<h3>Technologies</h3>
+
+- React Native 💻
+- Expo🔌
+- Clean Architecture 🔨
+- Navigation 🗺️
+- Optimized for iOS and Android 📱
