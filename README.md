@@ -103,3 +103,30 @@ I focused on incorporating the following features:
 - Clean Architecture 🔨
 - Navigation 🗺️
 - Optimized for iOS and Android 📱
+
+
+
+ <h2 align="left"> Product Category Management and Image Upload - Interactive BackEnd 📱 </h2>
+<br/>
+  <p align="center">
+ 
+   <img width="800" alt="pick" src="https://github.com/Lucostamagna/LoginUx/blob/master/assets/back.png" />
+</p>
+<p> ⚡️ In my latest project, I focused on honing my skills in interactions with the BackEnd. Building upon the success of my previous login project, where I achieved user creation and active session management, I've taken a leap forward by developing a comprehensive system. This system enables not only the viewing of all existing product categories but also the direct creation of new categories within the application, along with the ability to modify the ones already present.
+
+Highlighted Features:
+
+-Category Exploration.
+-Creation of New Categories.
+-Modification of Existing Categories.
+-Image Upload.
+-Image Viewing.
+</p>
+<h3>Technologies</h3>
+
+- React Native 💻
+- Context 🔌
+- Mongo Db 🍀
+- Async Storage 🔑
+- Clean Architecture 🔨
+- Optimized for iOS and Android 📱
