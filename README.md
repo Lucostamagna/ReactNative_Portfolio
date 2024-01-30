@@ -130,3 +130,30 @@ Highlighted Features:
 - Async Storage 🔑
 - Clean Architecture 🔨
 - Optimized for iOS and Android 📱
+
+<h2 align="left"> Navigation and Authentication </h2>
+
+
+<br/>
+  <p align="center">
+ 
+   <img width="800" alt="pick" src="https://github.com/Lucostamagna/ReactNative_Navigation/blob/main/Navigation/assets/Navigation.png" />
+</p>
+<p> ⚡️ 
+Strengthening my skills in navigation with Stack, Tab, and Drawer in React Native. I implemented a robust authentication flow, utilizing AsyncStorage to securely store tokens. Additionally, I integrated Redux Toolkit for efficient state management.
+
+Highlighted Features:
+
+Advanced navigation using Stack, Tab, and Drawer Navigator.
+Robust and secure authentication flow.
+Efficient use of AsyncStorage for token persistence.
+Implementation of Redux Toolkit for efficient state management.
+
+</p>
+<h3>Technologies</h3>
+
+- React Native 💻
+- Redux Toolkit
+- Async Storage 🔑
+- Clean Architecture 🔨
+- Optimized for iOS and Android 📱
