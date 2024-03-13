@@ -12,7 +12,40 @@
 
 
 <h2> Projects 📲 </h2>
+
+ <h2 align="left"> Gota de Vida 🍀 </h2>
+
+ <p> 
+Gota de Vida is an application designed to efficiently connect people in need of blood donations with willing donors. Our goal is to facilitate this process by creating a network of support and generosity.
+
+<br/>
+ </p>
+ <p align="center">
  
+   <img width="800" alt="pick" src="https://github.com/Lucostamagna/ReactNative_Navigation/blob/main/Navigation/assets/Gota.png" />
+</p>
+<p>
+
+<h3>Key Features 💻</h3>
+- User Registration: Users can create an account in the application by providing basic information such as name, email address, and password. Once registered, they will have the ability to add relevant information to their user profile.
+
+- Request Posts: Users can create posts requesting blood, specifying the required blood type, the quantity needed, and the location where the donation is needed.
+- User Interaction: Users can access a feed of posts where they will see blood requests made by other users, with the ability to interact with these posts by expressing their availability to donate or leaving their support.
+- Donation Information: The application provides access to relevant information about the importance of blood donation, the requirements to be a donor, and the benefits of doing it regularly.
+- Hospital Viewing: Users have access to a map with nearby hospitals where they can donate blood or receive medical attention related to donation.
+- Donor Registration: Users interested in becoming donors can register in the application, providing additional information such as blood type and availability to donate.
+</p>
+
+<h3>Technologies</h3>
+
+- React Native 💻
+- Context 🔌
+- AWS 🍀
+- Async Storage 🔑
+- Clean Architecture 🔨
+- Optimized for iOS and Android 📱
+-Dark & Light Mode 👏
+
  <h2 align="left"> Login - Logout </h2>
 
  <p> 
@@ -130,6 +163,32 @@ Highlighted Features:
 - Async Storage 🔑
 - Clean Architecture 🔨
 - Optimized for iOS and Android 📱
+
+
+<h2 align="left">Navigation and State Management in React Native  📱</h2>
+
+
+<br/>
+  <p align="center">
+ 
+   <img width="800" alt="pick" src="https://github.com/Lucostamagna/ReactNative_Navigation/blob/main/Navigation/assets/Navigation..png" />
+</p>
+<p> ⚡️ 
+This is a simple React Native application project that integrates different types of navigation, including tab navigation, bar navigation, and stack navigation. Additionally, Redux Toolkit is used for managing the global state of the application.
+
+Features
+- Tab Navigation: Allows users to switch between different sections of the application easily.
+- Bar Navigation: Provides a navigation bar at the top of the application to access different sections.
+- Stack Navigation: Allows users to navigate between screens sequentially, maintaining a navigation history.
+- State Management with Redux Toolkit: Utilizes Redux Toolkit to efficiently and scalably manage the global state of the application.
+</p>
+<h3>Technologies</h3>
+
+- React Native 💻
+- Redux Toolkit
+- Clean Architecture 🔨
+- Optimized for iOS and Android 📱
+
 
 <h2 align="left"> Navigation and Authentication </h2>
 
