@@ -46,6 +46,48 @@ Gota de Vida is an application designed to efficiently connect people in need of
 - Optimized for iOS and Android 📱
 -Dark & Light Mode 👏
 
+
+
+<h2 align="left"> Technical Test - Cocktails App 📲 </h2>
+<h3>Key Features 💻</h3>
+ <p> 
+Login: The application features a login simulation that allows you to access all its functionalities. You can use the following credentials to log in:
+
+Username: juan.challenge@gmail.com
+
+Password: juan123456!
+
+This login simulation is provided solely for demonstration and testing purposes.
+
+Recipe Exploration: You will be able to visualize a series of cocktail recipes available in the application.
+
+Search Filters: You will have the option to select different filters to find specific recipes according to your preferences. You can search for recipes by name, ingredients, category, or even explore random recipes.
+
+Recipe Search: The application includes a search function that allows you to find specific cocktail recipes using an integrated search bar. This feature enhances the user experience by enabling faster and more precise navigation.
+
+Recent Searches Record: The application automatically saves the cocktail recipes you have recently searched for, allowing you to quickly access them from the search history.
+
+<br/>
+ </p>
+ <p align="center">
+ 
+   <img width="800" alt="pick" src="https://github.com/Lucostamagna/PruebaTecnica_ADEN/blob/main/CoctelesApp/assets/Coctelapp..png" />
+    <img width="800" alt="pick" src="https://github.com/Lucostamagna/PruebaTecnica_ADEN/blob/main/CoctelesApp/assets/CoctelApp.png" />
+</p>
+<p>
+
+
+
+<h3>Technologies</h3>
+
+- React Native 💻
+- Async Storage 🔑
+- Clean Architecture 🔨
+- Styled Components
+- Optimized for iOS and Android 📱
+-Dark & Light Mode 👏
+
+
  <h2 align="left"> Login - Logout </h2>
 
  <p> 
