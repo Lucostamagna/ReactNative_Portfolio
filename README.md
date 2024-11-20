@@ -13,6 +13,41 @@
 
 <h2> Projects 📲 </h2>
 
+ <h2 align="left"> Event App 🍀 </h2>
+
+ <p> 
+This is an innovative application designed to simplify the management of private events by providing tools to organize clients, create events, and oversee tasks for every team member involved. Our goal is to offer a seamless experience for users to coordinate events efficiently and effectively.
+
+<br/>
+ </p>
+ </p>
+ <p align="center">
+ 
+   <img width="800" alt="pick" src="https://github.com/Lucostamagna/ReactNative_Navigation/blob/main/Navigation/assets/Gota.png" />
+</p>
+<p>
+
+  <p>
+<h3>Key Features 💻</h3>
+- User Registration: Users can create accounts by providing essential details like name, email, and password. Once registered, they can complete their profiles with relevant information.
+    
+- Client & Company Management: Easily register clients or companies, storing their details for quick reference and use in event creation.
+- Event Creation: Organize private events by specifying details such as the event's name, date, location, and associated clients or companies.
+- Task Management: Assign and track tasks related to the event for each team member, ensuring everyone is aligned and deadlines are met.
+- Event Dashboard: View a comprehensive dashboard that summarizes ongoing and upcoming events, with progress tracking and updates.
+- User Collaboration: Enable collaboration by allowing users to share event updates, tasks, and progress directly within the app.
+- Role-Based Access: Grant different levels of access to users based on their role in the event, ensuring security and focus on relevant tasks.
+    
+  </p>
+  <h3>Technologies</h3>
+
+- React Native 💻
+- Redux 🔌
+- MongooDB 🍀
+- Async Storage 🔑
+- Clean Architecture 🔨
+- Optimized for iOS and Android 📱
+
  <h2 align="left"> Gota de Vida 🍀 </h2>
 
  <p> 
