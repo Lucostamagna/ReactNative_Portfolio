@@ -12,7 +12,43 @@
 
 
 <h2> Projects 📲 </h2>
+ <h2 align="left">Inventory App 🍀 </h2>
 
+ <p> 
+This is a practical and intuitive solution for efficiently managing inventories. Designed with advanced administration tools, this application allows users to add, modify, and manage products, including images and reservations for events.
+
+<br/>
+ </p>
+ </p>
+ <p align="center">
+ 
+  <img width="800" alt="pick" src="https://github.com/Lucostamagna/IFarmingChallenge/blob/main/IFarmingApp/assets/App4.png" />
+
+</p>
+<p>
+
+  <p>
+<h3>Key Features 💻</h3>
+- User Registration: Users can create accounts by providing essential details like name, email, and password. Once registered, they can complete their profiles with relevant information.
+    
+- Product Management: Add new products to the inventory by providing details such as name, description, available quantity, unit price, and other key attributes.
+- Image Handling: Attach images to products by selecting them from the gallery or capturing them directly with the device's camera.
+- Product Modification: Edit information for existing products, such as quantities, prices, or descriptions, to keep the inventory always up-to-date.
+- Inventory Control: Maintain a detailed record of the available quantity of products and make real-time adjustments as they are used or reserved.
+- Event Reservations: Reserve specific products for events organized within the application, ensuring proper allocation and availability.
+- Clear Visualization: Quickly and easily consult all products, their quantities, prices, and availability through an organized dashboard.
+    
+  </p>
+  <h3>Technologies</h3>
+
+- React Native 💻
+- Redux 🔌
+- MongooDB 🍀
+- Async Storage 🔑
+- Clean Architecture 🔨
+- Optimized for iOS and Android 📱
+
+_-
  <h2 align="left"> Event App 🍀 </h2>
 
  <p> 
