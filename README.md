@@ -12,6 +12,39 @@
 
 
 <h2> Projects 📲 </h2>
+
+ <h2 align="left"> Form App 🍀 </h2>
+
+ <p> 
+OnBoarding: The OnBoarding section provides information on how Form App works and how you can create forms. It will guide you through the initial steps so you can start using the application efficiently.
+
+Home Screen: On the home screen, you’ll find an input field where you must enter the name of your form. If you attempt to create a form without entering a name, an alert will notify you to do so. Once you create a form with a valid name, you can add fields below it based on your needs. Each field can be customized to capture specific information. Additionally, you have the option to delete fields if they are no longer needed. You can also delete the entire form if you decide it is no longer necessary. Once you save your form, the home screen will automatically clear, leaving it ready for you to create a new form if desired. All saved forms will be available in the "Saved Forms" section, where you can access them at any time.
+
+Alert System: The app includes an alert system to ensure a better user experience.
+
+Mobile and Web Application: Form App is designed to provide a seamless and optimized experience on both mobile devices and web browsers. The styles and functionalities have been developed in parallel to deliver the best user experience.
+
+<br/>
+ </p>
+ </p>
+ <p align="center">
+ 
+  <img width="800" alt="pick" src="https://github.com/Lucostamagna/IFarmingChallenge/blob/main/IFarmingApp/assets/Form.png" />
+  <img width="800" alt="pick" src="https://github.com/Lucostamagna/IFarmingChallenge/blob/main/IFarmingApp/assets/FormScreen.png" />
+
+</p>
+<p>
+
+  <p>
+    
+  <h3>Technologies</h3>
+
+- React Native 💻
+- Context 🔌
+- Async Storage 🔑
+- Clean Architecture 🔨
+- Optimized for iOS and Android 📱
+
  <h2 align="left">Inventory App 🍀 </h2>
 
  <p> 
@@ -48,7 +81,6 @@ This is a practical and intuitive solution for efficiently managing inventories.
 - Clean Architecture 🔨
 - Optimized for iOS and Android 📱
 
-_-
  <h2 align="left"> Event App 🍀 </h2>
 
  <p> 
