@@ -23,7 +23,9 @@ This is an innovative application designed to simplify the management of private
  </p>
  <p align="center">
  
-   <img width="800" alt="pick" src="https://github.com/Lucostamagna/ReactNative_Navigation/blob/main/Navigation/assets/Gota.png" />
+  <img width="800" alt="pick" src="https://github.com/Lucostamagna/IFarmingChallenge/blob/main/IFarmingApp/assets/App1.png" />
+  <img width="800" alt="pick" src="https://github.com/Lucostamagna/IFarmingChallenge/blob/main/IFarmingApp/assets/App2.png" />
+  <img width="800" alt="pick" src="https://github.com/Lucostamagna/IFarmingChallenge/blob/main/IFarmingApp/assets/App3.png" />
 </p>
 <p>
 
